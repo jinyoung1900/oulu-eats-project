@@ -1,6 +1,6 @@
 # OuluEats-project
 
-This is a project developed at the University of Oulu as part of my Masters Degree. The main objective was to build a map based mobile prototype that helps new students in Oulu discover restaurants and eateries around the city.
+This was my MSc project at the University of Oulu, combining a map-based prototype with full project documentation, including scheduling, resourcing, and team planning (/docs).
 
 ---
 
@@ -14,6 +14,14 @@ The goal was to assist international and local students with a user friendly app
 - Social media integration
 
 > Designed and tested using **Figma**
+
+Beyond the visual prototype, this project included formal documentation such as:
+
+- A detailed Software Plan outlining the app's scope, features, and UI logic
+- A full Project Plan with team roles, timeline, resource allocation, and risk analysis
+- A Final Report reflecting weekly progress and project execution
+
+These documents demonstrate my ability to manage early-stage planning for digital products in a structured team environment.
 
 ## Preview
 
