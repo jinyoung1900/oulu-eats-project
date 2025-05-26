@@ -17,20 +17,19 @@ The goal was to assist international and local students with a user friendly app
 
 ## Preview
 
-
-
-![Figma Design Preview]()
+![OuluEatsAppshowcase-crop (1)](https://github.com/user-attachments/assets/f436641d-e6e9-4e7b-8887-276694ce8157) 
+![OuluEatsDesign](https://github.com/user-attachments/assets/c81188ee-c36c-46d7-ba5f-2f510e41ae36)
 
 📍 **Try the Prototype:**  
-[Click to open in Figma](https://www.figma.com/proto/HAfwJjl4Dl33Z26Yy2fJkn/Oulu-Eats-project?node-id=11-762&p=f&t=LdfGspDxCsJRIHuH-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A11&starting-point-node-id=1%3A77)
+[Click to open in Figma](https://www.figma.com/proto/HAfwJjl4Dl33Z26Yy2fJkn/Oulu-Eats-project?node-id=1-77&p=f&t=LxCJwsCInHlfddra-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A11&starting-point-node-id=1%3A77)
 
 ##  Project Documents
 
-All planning, design, and final reporting is included in ``.
+All planning, design, and final reporting is included in `/docs`.
 
-- [Software Plan]()
-- [Project Plan]()
-- [Final Report]()
+- [Software Plan](/docs/software-plan.pdf)
+- [Project Plan](/docs/project-plan.pdf)
+- [Final Report](/docs/final-report.pdf)
 
 ## Tech & Tools
 
