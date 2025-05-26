@@ -26,8 +26,6 @@ These documents demonstrate my ability to manage early-stage planning for digita
 ## Preview
 
 ![OuluEatsAppshowcase-crop (1)](https://github.com/user-attachments/assets/f436641d-e6e9-4e7b-8887-276694ce8157) 
-![OuluEatsDesign2](https://github.com/user-attachments/assets/abb3db2d-0f0c-495f-8f00-d262b09a7fc6)
-
 
 📍 **Link to prototype:**  
 [Link to prototype](https://www.figma.com/proto/HAfwJjl4Dl33Z26Yy2fJkn/Oulu-Eats-project?node-id=1-77&p=f&t=LxCJwsCInHlfddra-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A11&starting-point-node-id=1%3A77)
