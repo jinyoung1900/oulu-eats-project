@@ -27,9 +27,9 @@ The goal was to assist international and local students with a user friendly app
 
 All planning, design, and final reporting is included in `/docs`.
 
-- [Software Plan](/docs/software-plan.pdf)
-- [Project Plan](/docs/project-plan.pdf)
-- [Final Report](/docs/final-report.pdf)
+- [Software Plan](/docs/Software-Plan.pdf)
+- [Project Plan](/docs/Project-Plan.pdf)
+- [Final Report](/docs/Final-Report.pdf)
 
 ## Tech & Tools
 
